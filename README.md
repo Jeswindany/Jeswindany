@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeswindany&label=Profile%20views&color=0e75b6&style=flat" alt="jeswindany" /> </p>
 
-- 🔭 I’m currently working on **Flutter**
-
 - 🌱 I’m currently learning **Flutter, Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jeswindany/](https://github.com/Jeswindany/)
