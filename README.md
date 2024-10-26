@@ -10,7 +10,7 @@
 
 <li>🌱 My Hobbies are Doodling and Googling</li>
 
-<li>📫 How to reach me <a href = "jeswindany@gmail.com">jeswindany@gmail.com</a></li>
+<li>📫 How to reach me <a href = "mailto:jeswindany@gmail.com">jeswindany@gmail.com</a></li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
