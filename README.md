@@ -1,13 +1,17 @@
-<h1 align="center">Hi 👋, I'm Jeswin</h1>
-<h3 align="center">Student at Sri Venkateswara college of Engineering</h3>
+<h1 align="center">Jeswin Paul Dany D</h1>
+<h3 align="center">Undergrad at Sri Venkateswara college of Engineering</h3>
 
-<p align="left" style = "display: none"> <img src="https://komarev.com/ghpvc/?username=jeswindany&label=Profile%20views&color=0e75b6&style=flat" alt="jeswindany" /> </p>
+<ul>
+<li>🌱 I’m currently enrolled in <b>Computer Science Engineering</b></li>
 
-- 🌱 I’m currently learning **Flutter, Web Development**
+<li>👨‍💻 All of my projects are available at <a href = "https://github.com/Jeswindany/">my github page</a></li>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Jeswindany/](https://github.com/Jeswindany/)
+<li>💼 Here is my personal <a href = "https://jeswindany.github.io/portfolio/">portfolio</a></li>
 
-- 📫 How to reach me **jeswindany@gmail.com**
+<li>🌱 My Hobbies are Doodling and Googling</li>
+
+<li>📫 How to reach me <a href = "jeswindany@gmail.com">jeswindany@gmail.com</a></li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
