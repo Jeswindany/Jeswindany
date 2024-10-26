@@ -1,5 +1,5 @@
 <h1 align="center">Jeswin Paul Dany D</h1>
-<h3 align="center">Undergrad at Sri Venkateswara college of Engineering</h3>
+<h3 align="center">Undergrad at Sri Venkateswara College of Engineering</h3>
 
 <ul>
 <li>🌱 I’m currently enrolled in <b>Computer Science Engineering</b></li>
