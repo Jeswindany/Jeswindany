@@ -2,7 +2,7 @@
 <h3 align="center">Undergrad at Sri Venkateswara College of Engineering</h3>
 
 <ul>
-<li>🌱 I’m currently enrolled in <b>Computer Science Engineering</b></li>
+<li>🌱 I’m currently enrolled in <b>Computer Science Engineering</b> bachelors degree</li>
 
 <li>👨‍💻 All of my projects are available at <a href = "https://github.com/Jeswindany/">my github page</a></li>
 
@@ -10,7 +10,7 @@
 
 <li>🌱 My Hobbies are Doodling and Googling</li>
 
-<li>📫 How to reach me <a href = "mailto:jeswindany@gmail.com">jeswindany@gmail.com</a></li>
+<li>📫 To reach me: <a href = "mailto:jeswindany@gmail.com">jeswindany@gmail.com</a></li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
