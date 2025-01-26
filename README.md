@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I'm a CS Student with a passion for problem solvin
 
 ## 🔧 Technologies & Tools
 - **Languages:** Java, JavaScript, Python, C++, C
-- **Frameworks:** Bootstrap, Bulma
-- **Tools:** Git, VS Code
+- **Frameworks:** Express Js, React Js, Bootstrap, Bulma
+- **Tools:** Node Js, MongoDB, Git, VS Code
 
 ---
 
